@@ -1,0 +1,11 @@
+body {
+	text-align: center;
+	background-color: #4069E6;
+}
+
+#display {
+	font-weight: 500;
+	font-family: cursive;
+	font-size: 3rem;
+	color: red;
+}

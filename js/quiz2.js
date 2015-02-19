@@ -14,7 +14,7 @@ $(document).ready(function() {
 
 		// Gets answer
 
-		answer1 = $.trim($('#answer1').val());		
+		answer1 = $.trim($('#answer1').val()).toLowerCase();		
 		$('#answer1').val('');
 
 		// Checks answer
